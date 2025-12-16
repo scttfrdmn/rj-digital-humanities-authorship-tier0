@@ -1,6 +1,6 @@
 # Historical Text Analysis with NLP
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17945971.svg)](https://doi.org/10.5281/zenodo.17945971)
 
 **Duration:** 60-90 minutes
 **Platform:** Google Colab or SageMaker Studio Lab
